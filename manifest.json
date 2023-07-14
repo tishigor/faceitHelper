@@ -1,0 +1,25 @@
+{
+  "name": "Addition for FACEIT Enhancer",
+  "description": "Расширение для просмотра подробной статистики о игроках в комнате (кол-во игр за последние 2 недели)",
+  "version": "1.1",
+  "manifest_version": 3,
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/get_started16.png",
+      "32": "/images/get_started32.png",
+      "48": "/images/get_started48.png",
+      "128": "/images/get_started128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/get_started16.png",
+    "32": "/images/get_started32.png",
+    "48": "/images/get_started48.png",
+    "128": "/images/get_started128.png"
+  }
+}
