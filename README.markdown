@@ -10,8 +10,8 @@
 
 ## Установка
 
-1. * Для установки в Google Chrome ввести в браузерной строке [chrome://extensions](chrome://extensions)
-   * Для установки в Yandex Browser ввести в браузерной строке [browser://extensions](browser://extensions)
+1. * Для установки в Google Chrome ввести в браузерной строке `chrome://extensions`
+   * Для установки в Yandex Browser ввести в браузерной строке `browser://extensions`
 
 2. Включить режим разработчика, нажать кнопку "Загрузить распакованное расширение" и выбрать проект.
 
